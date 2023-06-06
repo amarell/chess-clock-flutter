@@ -1,3 +1,3 @@
-# chess_clock
+# ChronoChess
 
-A new Flutter project.
+Simple chess clock application made because I wanted to try Flutter. 
